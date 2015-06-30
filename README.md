@@ -1,7 +1,9 @@
 lastfm-objects
 ==============
 
-A Ruby library for wrapping Last.fm API data responses created by ruby-lastfm gem
+A Ruby library for wrapping Last.fm API data responses created by ruby-lastfm gem. 
+
+Long time after the code, I found out that [Hashie](https://github.com/intridea/hashie)'s [Mash](https://github.com/intridea/hashie#mash) does what I want.
 
 
 # About
